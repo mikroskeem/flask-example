@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+    display: block;
+}
+
+div.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width: 400px;
+}
+
+div.header {
+    margin: auto;
+    width: 50%;
+}
